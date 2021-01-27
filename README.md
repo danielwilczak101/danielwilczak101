@@ -1,6 +1,6 @@
 ### Hi there im Daniel Wilczak 👋
 
-Current work: EasyGA and the AI Drift cart!
+Current work: EasyGA, AI Drift cart and Evolving Altitude Controller!
 
 
 <!--
