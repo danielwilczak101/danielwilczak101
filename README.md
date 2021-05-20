@@ -1,6 +1,6 @@
 ### Hi there im Daniel Wilczak 👋
 
-Current work: EasyGA, EasyNN, EasyAI, LEI and Evolving Altitude Controller!
+Current work: EasyNN and LEI
 
 
 <!--
