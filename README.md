@@ -1,6 +1,6 @@
 ### Hi there im Daniel Wilczak 👋
 
-Current work: EasyNN and LEI
+Current work: LEI
 
 
 <!--
