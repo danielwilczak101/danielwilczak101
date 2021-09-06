@@ -1,6 +1,6 @@
 ### Hi there im Daniel Wilczak 👋
 
-Current work: LEI
+Current work: Drift AI, LEI
 
 
 <!--
