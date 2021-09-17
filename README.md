@@ -1,6 +1,6 @@
 ### Hi there im Daniel Wilczak 👋
 
-Current work: Drift AI, LEI
+Current work: Drift AI, EasyNN
 
 
 <!--
