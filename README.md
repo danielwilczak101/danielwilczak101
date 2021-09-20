@@ -1,6 +1,6 @@
 ### Hi there im Daniel Wilczak 👋
 
-Current work: Drift AI, EasyNN
+Current work: Drift AI, EasyNN, Flask App
 
 
 <!--
