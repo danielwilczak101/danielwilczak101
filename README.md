@@ -11,7 +11,7 @@ Current work: EasyControls, EasyGA
 <br>
 💻 I’m interested in solving challenging problems and building things that help make complex problems easy.
 <br> 
-🧘‍♀️ Fun Fact: I love 3D printing and making my own PCB's.
+🧨 Fun Fact: I love 3D printing, making my own curcuit boards and learning how to use CNC machines.
 
 
 ### Languages & Tools
