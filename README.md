@@ -3,11 +3,13 @@ Current work: EasyControls, EasyGA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alysha-gilliard-077aa2a8/](https://www.linkedin.com/in/danielwilczak/))
 <br>
-👋 I am a Embry Riddle University Senior majoring in computer science and computational math  . I am currently living in Port Orange, FL.
+👋 I am a Embry Riddle University Senior majoring in computer science and computational math.
 <br>
-👩‍🏫 Currently going through interviews with multiple companies to find the right place..
+📍I am currently living in Daytona Beach, FL.
 <br>
-💻 I’m interested in solving challenging problems and building things that help connect people.
+👩‍🏫 Currently going through interviews with multiple companies to find the right place.
+<br>
+💻 I’m interested in solving challenging problems and building things that help make complex problems easy.
 <br> 
 🧘‍♀️ Fun Fact: I love 3D printing and making my own PCB's.
 
