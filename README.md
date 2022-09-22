@@ -7,7 +7,7 @@ Current work: EasyControls, EasyGA
 <br>
 📍I am currently living in Daytona Beach, FL.
 <br>
-👩‍🏫 Currently going through interviews with multiple companies to find the right place.
+👩‍🏫 Currently going through interviews with multiple companies to find the right place. Graduation - 12/2022
 <br>
 💻 I’m interested in solving challenging problems and building things that help make complex problems easy.
 <br> 
