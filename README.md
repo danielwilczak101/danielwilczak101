@@ -2,7 +2,7 @@
 Current work: EasyControls, EasyGA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/danielwilczak/))
+[https://www.linkedin.com/in/danielwilczak/](https://www.linkedin.com/in/danielwilczak/))
 <br>
 
 👋 I am a Embry Riddle University Senior majoring in both computer science and computational math.
