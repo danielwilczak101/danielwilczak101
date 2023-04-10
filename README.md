@@ -5,11 +5,9 @@ Current work: EasyControls, EasyGA
 
 <br>
 
-👋 I am a Embry Riddle University Senior majoring in both computer science and computational math.
+👋 I am a Lead Data Engineer for breakthru beverage group.
 <br>
-📍I am currently living in Daytona Beach, FL.
-<br>
-👩‍🏫 Currently going through interviews with multiple companies to find the right place. Graduation - 12/2022
+📍I am currently living in Chicago, IL.
 <br>
 💻 I’m interested in solving challenging problems and building things that help make complex problems easy.
 <br> 
